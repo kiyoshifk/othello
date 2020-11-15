@@ -1,0 +1,6 @@
+game error [5,6]
+game error [5,6]
+game error [5,6] teban=1
+game error [5,6] teban=1
+game error [3,3] teban=2
+game error [5,6] teban=1
